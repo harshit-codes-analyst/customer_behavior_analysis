@@ -31,6 +31,8 @@ Loaded the cleaned dataset into PostgreSQL for SQL-based business analysis.
 Below is a snapshot of the Power BI Dashboard developed for this project:
 
 Dashboard Preview
+![Dashboard Image]()
+
 
 SQL-Based Business Analysis (PostgreSQL)
 Key business questions answered:
